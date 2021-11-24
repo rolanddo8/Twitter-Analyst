@@ -20,8 +20,6 @@
 
 A scalable website for searching trending keywords and visualizing the sentiment score on the real-time chart. Using Twitter API, Sentiment npm module, Web RTC, Google Trend API, DynamoDB, Redis and AWS for scaling  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -31,6 +29,5 @@ A scalable website for searching trending keywords and visualizing the sentiment
 * DynamoDB
 * Elasticache Redis
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
